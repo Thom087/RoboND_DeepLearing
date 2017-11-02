@@ -103,3 +103,14 @@ ENV/
 
 RUNS/
 
+/data
+
+/Paper_Encoder_Decoder.pdf
+
+/Presentation1.odp
+/QuadSim_Win.exe
+/QuadSim_Win_Data
+*.zip
+/Submission_Thomas_Schatt
+*.docx
+*.html
